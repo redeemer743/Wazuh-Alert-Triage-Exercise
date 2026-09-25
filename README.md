@@ -1,4 +1,4 @@
-# Lab Report: Wazuh Alert Triage Exercise
+# Wazuh Alert Triage Exercise
 
 **Course / Module:** SIEM & Threat Hunting Operations
 
